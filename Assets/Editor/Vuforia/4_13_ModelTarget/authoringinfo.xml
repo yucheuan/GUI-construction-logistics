@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="33.0" toolVersion="v5.2.0-11-g13bb334">
+        <ModelTarget name="4_13_ModelTarget" targetId="6e4c2bcdb65a4b2cb03a2ae71985e0d1" version="11.1" toolVersion="v5.2.0-11-g13bb334" bbox="-0.250000 -0.250000 -0.006000 0.250000 0.250000 0.000000" trackingMode="default" upVector="0.0 0.0 1.0" />
+    </TargetSet>
+    <Assembly name="4_13_ModelTarget" assemblyId="ba6aeafd617048fbb888d73f36c3a0d3">
+        <Part name="4_13_ModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

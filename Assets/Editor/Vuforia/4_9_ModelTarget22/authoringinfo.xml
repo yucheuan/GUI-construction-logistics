@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="33.0" toolVersion="v5.2.0-11-g13bb334">
+        <ModelTarget name="4_9_ModelTarget22" targetId="7e646d8ff1ef43718fc2cda68a6dbd0a" bbox="-0.250000 -0.250000 -0.006000 0.250000 0.250000 0.000000" version="11.1" toolVersion="v5.2.0-11-g13bb334" trackingMode="default" upVector="0.0 0.0 1.0" />
+        <ModelTarget name="4_9_ModelTarget2" targetId="ba2ec5d8e5db4cd2b2d326f76db34877" bbox="-0.250000 -0.250000 -0.006000 0.250000 0.250000 0.000000" version="11.1" toolVersion="v5.2.0-11-g13bb334" trackingMode="default" upVector="0.0 0.0 1.0" />
+    </TargetSet>
+    <Assembly name="4_9_ModelTarget22" assemblyId="f434c77816ea49288856d8acdc6b1a3e">
+        <Part name="4_9_ModelTarget22" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint image="viewpoint_0001.png" rotation="AD: 0.6211758388113594 -0.6216560712262983 0.47716276718169004 129.0169332324756" translation="-0.002769108512594858 0.047683030495062624 0.6477594429665084" name="viewpoint_0001" trained="yes" />
+    </Assembly>
+    <Assembly name="4_9_ModelTarget2" assemblyId="140dbc7504a44b57b3e4e7d3b1fa9168">
+        <Part name="4_9_ModelTarget2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint image="viewpoint_0001.png" rotation="AD: 0.6134743684841154 -0.6176583273978455 0.4920847384436054 127.90572560790069" translation="-0.004087387871708699 0.0788605866372577 0.6770801744341299" name="viewpoint_0001" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="2e313f453b8a4bc3bbc3b263465813e7" name="4_9_ModelTarget22" toolVersion="v5.2.0-11-g13bb334" version="33.0">
+        <RecognitionResult assemblyId="f434c77816ea49288856d8acdc6b1a3e" assemblyName="4_9_ModelTarget22" entryPoint="viewpoint_0001" />
+        <RecognitionResult assemblyId="140dbc7504a44b57b3e4e7d3b1fa9168" assemblyName="4_9_ModelTarget2" entryPoint="viewpoint_0001" />
+    </ModelTargetDatabase>
+</QCARInfo>
