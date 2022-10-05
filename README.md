@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 ## GUI Construction Logistics
 
-[![](https://edef4.pcloud.com/cfZvL1QPRZ4l5YqhZrNVRZXZ2Fm8c7Z3VZZYRJZZthabZeXZXVZC7ZfVZLVZOkZMkZyXZkXZVkZAXZSXZzXZgkZAPjl55bJNvuT2GY1cQOzFXNgOhek/Thumbnail.png)]([https://vimeo.com/yuchenghuang/steam-odessey](https://vimeo.com/yuchenghuang/gui-construction-logistics))
+[![](https://raw.githubusercontent.com/yucheuan/GUI-construction-logistics/main/Assets/Frame%206.png)]([https://vimeo.com/yuchenghuang/steam-odessey](https://vimeo.com/yuchenghuang/gui-construction-logistics))
 <p align="center"><a href="https://vimeo.com/yuchenghuang/gui-construction-logistics"><strong>WATCH THE INTRO VIDEO »</strong></a></p>
 
 ### Intro
@@ -19,11 +19,8 @@ and assembling sequence. However, it's not handy to keep tracking those labeled 
 To access 3D information, we introduce two tools, a labeling-and-guiding system and customized physical components (embedded with graphical QR codes). The labeling-and-guiding system allows users to access labeled components to their information, like material
 properties, store location, and how-to assemble. Hence, workers can find the components and get informed on assembling tasks by scanning graphical labels on components, optimizing the on-site construction process with an augmented-reality technology.
 
-<!--
-### Design Mockups
-![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture-1.jpg)
-![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture-2.jpg)
--->
+### Design Details
+![](https://raw.githubusercontent.com/yucheuan/GUI-construction-logistics/main/Assets/Frame%209.png)
 
 ### Built With
 * [Unity](https://unity.com/)
